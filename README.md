@@ -11,7 +11,7 @@ Diseño inspirado en <a href="https://dribbble.com/">Dribbble</a>
             height:400px;"/>
     </div>
     
-    <div style="display: flex;">
+   <div style="display: flex;">
      
 <img src="https://user-images.githubusercontent.com/101027497/230211029-4cde0aba-247e-4e23-b74e-5a35422bda77.png"
      style="object-fit:cover;
