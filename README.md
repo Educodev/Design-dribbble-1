@@ -4,7 +4,7 @@ Diseño inspirado en <a href="https://dribbble.com/">Dribbble</a>
 
 
 
-<div class="contenedor-imagenes" style="background-color:aliceblue;padding:25px;">
+<div style="display: flex;">
     <img src="https://user-images.githubusercontent.com/101027497/230210767-f19e0ad9-c37d-4c63-89b0-1ccc279ca6bb.png"
      style="object-fit:cover;
             width:200px;
