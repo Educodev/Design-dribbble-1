@@ -14,5 +14,5 @@ Diseño inspirado en <a href="https://dribbble.com/">Dribbble</a>
      style="object-fit:cover;
             width:200px;
             height:400px;"/>
-<\div>
+</div>
 
